@@ -5,7 +5,7 @@ Para o desenvolvimento deste projeto de ChatBot no Azure, foram utilizados algun
 
 ## Pricinpais Ferramentas
 
-- *www.infolivros.org para baixar um arquivo pdf a ser utilizado no projeto*
+- *[www.infolivros.org](https://www.infolivros.org/livros-pdf-gratis/informatica/redes-de-computadores/) Site utilizado para baixar um arquivo pdf a ser utilizado no projeto*
 - *Azure AI Foundry*
 - *GPT-4o*
 - *text-embedding-3-large*
